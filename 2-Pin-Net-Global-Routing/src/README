@@ -1,0 +1,5 @@
+Compile：
+    command：make (確定目錄底下有Makefile)
+
+Execute：
+    ./route input_file.txt output_file
